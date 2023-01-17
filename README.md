@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img align="right" src="https://media.giphy.com/media/ttEsNJGzwGfOxuSQVZ/giphy.gif" alt="jose-morcillo-cascales" />
+<img align="right" src="https://media.giphy.com/media/h4qg9NFUO1OgZcOIEa/giphy.gif" alt="jose-morcillo-cascales" />
 
 - 🌱 I’m currently learning **Jest**
 

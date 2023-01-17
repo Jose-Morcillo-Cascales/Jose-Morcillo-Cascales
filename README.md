@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jose but to you I am Pepe</h1>
+<h1 align="center">Hi 👋, I'm Jose but to you I'm Pepe</h1>
 <h3 align="center">I am a full stack developer looking for new challenges and adventures.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jose-morcillo-cascales&label=Profile%20views&color=0e75b6&style=flat" alt="jose-morcillo-cascales" /> </p>
@@ -8,6 +8,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <img align="right" src="https://media.giphy.com/media/h4qg9NFUO1OgZcOIEa/giphy.gif" alt="jose-morcillo-cascales" />
+<img align="right" src="https://media.giphy.com/media/bx3Cvt88j7PtM4SOaS/giphy.gif" alt="jose-morcillo-cascales" width="100" height="100"/>
 
 - 🌱 I’m currently learning **Jest**
 
@@ -23,9 +24,9 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jose-morcillo-cascales&show_icons=true&locale=en" alt="jose-morcillo-cascales" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jose-morcillo-cascales&show_icons=true&locale=en" alt="jose-morcillo-cascales" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jose-morcillo-cascales&" alt="jose-morcillo-cascales" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jose-morcillo-cascales&" alt="jose-morcillo-cascales" /></p>
 
 
 

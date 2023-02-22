@@ -10,7 +10,7 @@
 <img align="right" src="https://media.giphy.com/media/h4qg9NFUO1OgZcOIEa/giphy.gif" alt="jose-morcillo-cascales" />
 <img align="right" src="https://media.giphy.com/media/bx3Cvt88j7PtM4SOaS/giphy.gif" alt="jose-morcillo-cascales" width="100" height="100"/>
 
-- 🌱 I’m currently learning **Jest**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **morcillopepe1@gmail.com**
 
